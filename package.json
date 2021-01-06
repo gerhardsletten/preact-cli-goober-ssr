@@ -16,7 +16,8 @@
     "url": "https://github.com/gerhardsletten/preact-cli-goober-ssr/issues"
   },
   "homepage": "https://github.com/gerhardsletten/preact-cli-goober-ssr#readme",
-  "dependencies": {
-    "goober": "^2.0.19"
+  "dependencies": {},
+  "peerDependencies": {
+    "goober": ">=2.0.0"
   }
 }

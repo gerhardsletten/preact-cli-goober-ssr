@@ -4,7 +4,9 @@ Preact CLI plugin to run [Goobers `extractCss` method](https://github.com/cristi
 
 ## Usage
 
-``` bash
+`npm i preact-cli-goober-ssr -D`
+
+``` js
 # preact.config.js
 const gooberPlugin = require('preact-cli-goober-ssr')
 
