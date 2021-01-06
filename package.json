@@ -1,0 +1,22 @@
+{
+  "name": "preact-cli-goober-ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerhardsletten/preact-cli-goober-ssr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerhardsletten/preact-cli-goober-ssr/issues"
+  },
+  "homepage": "https://github.com/gerhardsletten/preact-cli-goober-ssr#readme",
+  "dependencies": {
+    "goober": "^2.0.19"
+  }
+}
