@@ -14,3 +14,9 @@ export default (config, env) => {
   gooberPlugin(config, env)
 }
 ```
+
+This will when you build your preact-app (`npm run build`) insert extracted styles from your goober-components for your pre rendered pages:
+
+``` html
+<style id="_goober">.go2557742045{color: red;}</style>
+```
